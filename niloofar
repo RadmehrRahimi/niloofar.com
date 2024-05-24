@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!-- This is niiloofar gallery. the site made by me 
+© Copyright 2024-2025 -->
+
+<style>
+h1 {text-align:left;}
+      .button {
+  display: -moz-stack;
+  padding: 25px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: dotted;
+  outline: none;
+  color: #af1d1d;
+  background-color: #09f92d;
+  border: none;
+  border-radius: 88794543123px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #d0f344;
+  box-shadow: 0 5px hsl(0, 5%, 39%);
+  transform: translateY(7px);
+  padding: 20px 45px;
+}
+      button {-align: center;}
+  h1 {text-align: center;}
+  p {text-align: center;}
+    body {
+      font-family: Arial, sans-serif;
+    }
+    </style>
+    <img src="Untitled.png" width="400px" height="400px" class="center"
+<h1>.به گالری نیلوفر خوش آمدید</h1>
+<button class="button" class="center" onclick="MyFunction()">بدلیجات💎</button>
+<button class="button" onclick="MyFunction1()">منچ مارپله🐍</button>
+<button class="button" onclick="MyFunction2()">پازل🧩</button>
+
+<h1 id="demo1">سایت از طرف رادمهر رحیمی</h1>
+<h1 id="demo"></h1>
+
+<img src="download (1).jpg"
+width="32p" height="32px" class="center"><h2> gallery_niloofar_bojnord</h1>
+<head>
+<script>
+function MyFunction() {
+  document.getElementById("demo").innerHTML = "لطفا به شماره ی بالا تماس بگیرید وکد 101 را بگویید و برای سفارش آنلاین کد 3 رابه همراهش بگویید";
+  document.getElementById("demo1").innerHTML = "0915 188 1466"
+
+}
+function MyFunction1() {
+  document.getElementById("demo").innerHTML = "لطفا به شماره ی بالا تماس بگیرید وکد 202 را بگویید و برای سفارش آنلاین کد 3 رابه همراهش بگویید";
+  document.getElementById("demo1").innerHTML = "0915 188 1466"
+}
+function MyFunction2() {
+  document.getElementById("demo").innerHTML = "لطفا به شماره ی بالا تماس بگیرید وکد 303 را بگویید و برای سفارش آنلاین کد 3 رابه همراهش بگویید";
+  document.getElementById("demo1").innerHTML = "0915 188 1466"
+}
+</script>
+<img src="Screenshot_20240524_081029_Instagram.jpg"
+ width="350p" height="700p" class="center">
+</head>
+<html>
+
+
+
+
+
+
+
